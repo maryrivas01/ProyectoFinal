@@ -1,0 +1,12 @@
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaDatos\obj\Debug\CapaDatos.pdb

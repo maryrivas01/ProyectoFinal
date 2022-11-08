@@ -1,0 +1,60 @@
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.ContraOlvidada.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Medicamentos.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Inicio.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.InicioSesiónPaciente.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Paciente.salaPrincipalPaciente.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.inicioSesionAdministrador.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Administrador.Médico.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Administrador.SalaPrincipalAdministrador.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.inicioSesionMedico.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Medico.SalaPrincipalMedico.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Paciente.CrearCuenta.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\EntityFramework.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\EntityFramework.xml
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.inicioSesionAdministrador.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Administrador.Médico.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Administrador.SalaPrincipalAdministrador.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.ContraOlvidada.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Inicio.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.inicioSesionMedico.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Medico.SalaPrincipalMedico.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Paciente.CrearCuenta.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.InicioSesiónPaciente.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Medicamentos.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.Views.Paciente.salaPrincipalPaciente.resources
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

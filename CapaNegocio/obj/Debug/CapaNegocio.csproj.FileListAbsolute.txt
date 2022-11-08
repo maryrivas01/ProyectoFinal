@@ -1,0 +1,18 @@
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\alexs\OneDrive\Escritorio\FarmaciaLaboratorio_DaVida - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
